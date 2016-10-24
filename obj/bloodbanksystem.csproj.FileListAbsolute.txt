@@ -1,0 +1,14 @@
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.exe
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.pdb
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\bin\Debug\bloodbanksystem.exe
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\bin\Debug\bloodbanksystem.pdb
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form1.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Properties.Resources.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form2.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form3.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form4.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form5.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form6.resources
+C:\Documents and Settings\asadcomputer\My Documents\Visual Studio 2005\Projects\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form7.resources

@@ -1,0 +1,15 @@
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.exe
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.pdb
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\bin\Debug\bloodbanksystem.exe
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\bin\Debug\bloodbanksystem.pdb
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form2.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form3.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form4.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form5.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form6.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form7.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Form1.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\bloodbanksystem.Properties.Resources.resources
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\TUSER\Desktop\bloodbanksystem\bloodbanksystem\obj\Debug\GenerateResource-ResGen.write.1.tlog
